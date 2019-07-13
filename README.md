@@ -27,4 +27,4 @@ pytest
 
 # Notes
 - If the application fails to access the name generator URL, it will display a joke with a default name
-- This happens if you request a joke too many times due to the name generator URL returning 508 (resource limite exceeded)
+- This happens if you request a joke too many times due to the name generator URL returning 508 (resource limit exceeded)
