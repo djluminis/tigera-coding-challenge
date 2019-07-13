@@ -11,7 +11,7 @@ sudo ./start.sh
 ```
 After the container builds and runs, it can be accessed via http://127.0.0.1/.
 
-# Unit tests instructions:
+# Unit tests instructions
 To run unit tests, install pytest if it's not installed already:
 ```
 pip install pytest
@@ -22,5 +22,5 @@ cd tests
 pytest
 ```
 
-Notes:
+# Notes
 - If the application fails to access either the name generator or joke generator URL, it will display a default name or default joke
